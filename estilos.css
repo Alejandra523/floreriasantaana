@@ -298,7 +298,7 @@ ul, ol {
 
 .texto_movimiento {
   position: absolute;
-  top: -80px;
+  top: -580px;
   left: 50%;
   transform: translateX(-50%);
   animation: moverTexto 3s linear infinite alternate;
